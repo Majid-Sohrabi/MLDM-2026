@@ -9,6 +9,8 @@ We will collect your home assignment solutions through private GitHub repositori
 | 01 | [DataHandling_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/01-intro/DataHandling_HW.ipynb) | 1 October 2026 23:59  |
 | -- | ------------------------| ------- |
 | 02 | [LinearRegression_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/02-linear-regression/LinearRegression_HW.ipynb) | 1 October 2026 23:59 |
+| 03 | [Classification_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/03-linear-classification/Classification_HW.ipynb) | 15 October 2025 23:59 |
+| 04 | [Regularization_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/04-regularization/Regularization_HW.ipynb) | 15 October 2025 23:59 |
 
 -1 is considered for each day of late submission on the respective HW. (If the hw is out of 10, then the hw grade will be automatically 0 for delay > 9 days)
 
