@@ -14,6 +14,7 @@ We will collect your home assignment solutions through private GitHub repositori
 | 05 | [QualityMetrics_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/06-Model-Evaluation/QualityMetrics_HW.ipynb) | 29 October 2026 23:59 |
 | 06 | [DecisionTrees_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/07-trees/DecisionTrees_HW.ipynb) |12 November 2026 23:59| 
 | 07 | [Ensembles_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/08-ensembles/Ensembles_HW.ipynb) |12 November 2026 23:59| 
+| 08 | [NNs_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2026/blob/main/09-neuralnets/NNs_HW.ipynb) |3 December 2026 23:59| 
 
 -1 is considered for each day of late submission on the respective HW. (If the hw is out of 10, then the hw grade will be automatically 0 for delay > 9 days)
 
